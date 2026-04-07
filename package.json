@@ -7,7 +7,7 @@
           },
   "description": "XPrime for TizenTube.",
   "packageType": "app",
-  "websiteURL": "https://www.xprime.tv/",
+  "websiteURL": "https://xprime.su/",
   "main": "dist/userScript.js",
   "serviceFile": "dist/service.js",
   "keys": [
